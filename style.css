@@ -1,0 +1,28 @@
+p{
+	font-size: 30px;
+}
+
+body{
+	background-color: #FFF447;
+	color:#110066;
+	font-family: 'Festive', cursive;
+	letter-spacing: 2px;
+}
+
+#head1{
+	text-align: center;
+	font-size: 50px;
+}
+
+.movpic{
+	border: 2000px;
+	width: 250px;
+}
+
+.tit{
+	text-align: center;
+	font-size: 50px;
+}
+ul,ol{
+	list-style-type: none;
+}
